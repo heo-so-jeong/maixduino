@@ -21,8 +21,8 @@ Maixaduino 활용한 AIoT 로봇 만들기 교육
       - 사용된 딥러닝 모델: Face Detection
       - 동작 설명: Face detection을 통해 얼굴을 인식하고, 가운데 좌표를 추출하여 로봇이 따라가게 만듬
   - 라인 트레이서
-      -AI적 요소 : Hough Transformation
-      -로봇 : Two Wheel Robot
+      - AI적 요소 : Hough Transformation
+      - 로봇 : Two Wheel Robot
   - 제스처 인식 로봇 제어
 
 

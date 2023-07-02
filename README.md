@@ -7,7 +7,7 @@ Maixaduino 활용한 AIoT 로봇 만들기 교육
 ## 환경
     - VCP Driver
     - MaixPy IDE
-    - K-Flash
+    - K-Flash gui
     
 ## 실습
 - Maixduino Machine Learning 실습
